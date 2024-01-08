@@ -4,13 +4,12 @@ A simple and elegant todo list application built using React.js. Organize your t
 
 ## Features ✨
 
-
 - **React state Use** Use React State for efficient state management.🚀
 - **Add Task:** Easily add a new task to your to-do list.  ✅
 - **Edit Task:** Modify the content of any existing task. ✏️
 - **Delete Task:** Remove specific tasks from the list. ❌
 - **Remove All Tasks:** Clear your entire to-do list with a single click. 🗑️
-- **Local Storage:** Tasks are stored in the local storage, ensuring persistence even if you close or refresh the page. 🔄
+- **Local Storage:**  Tasks are stored in the local storage, ensuring persistence even if you close or refresh the page.🔄
 - **Easy Understand** Easy-to-understand codebase for learning and customization.📦 
 
 ## How to Use 📋
