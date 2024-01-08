@@ -19,7 +19,7 @@ A simple and elegant todo list application built using React.js. Organize your t
    
 1. Install the necessary dependencies using npm install. <br>
    ```
-   cd todolist
+   cd React-Todo-App
    npm install
    
 1. Run the app with npm start. <br>
